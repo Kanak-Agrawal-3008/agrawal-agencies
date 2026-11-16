@@ -14,10 +14,10 @@ export const COMPANY_INFO = {
   primaryPhone: '+91 771 405 8800',
   salesHotline: '+91 98261 45000',
   dispatchPhone: '+91 98261 78900',
-  whatsappNumber: '919826145000',
+  whatsappNumber: '917066028105',
   email: 'sales@agrawalagencies.in',
   corporateEmail: 'contact@agrawalagencies.in',
-  
+
   headquarters: {
     title: 'Administrative Headquarters',
     address: 'Agrawal House, Plot No. 14-16, Commercial Complex, Ring Road No. 2, Industrial Area, Raipur - 492001, Chhattisgarh, India',
@@ -26,7 +26,7 @@ export const COMPANY_INFO = {
     pincode: '492001',
     hours: 'Monday – Saturday: 9:30 AM – 7:30 PM (Sunday Closed)'
   },
-  
+
   warehouse: {
     title: 'Central Logistics Yard & 80 MT Weighbridge',
     address: 'Survey No. 82/1-4, National Highway 53 Corridor, Heavy Industrial Estate, Raipur - 493111, Chhattisgarh, India',
