@@ -12,7 +12,7 @@ export const COMPANY_INFO = {
   weighbridgeCapacity: 'On-Site 80 MT Weighbridge',
   clientCount: '450+ Active Clients',
   primaryPhone: '+91 771 405 8800',
-  salesHotline: '+91 98261 45000',
+  salesHotline: '+91 70660 28105',
   dispatchPhone: '+91 98261 78900',
   whatsappNumber: '917066028105',
   email: 'sales@agrawalagencies.in',
